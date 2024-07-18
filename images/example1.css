@@ -1,0 +1,136 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.dropbtn{
+  text-transform: uppercase;
+  font-size: smaller;
+  font-weight: 500;
+}
+.dropbtn sup{
+  color: #f54e77;
+  font-size: xx-small;
+  font-weight: 600;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+.bag{
+  margin-top: 1%;
+  margin-right: 3%;
+}
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: rgb(0, 0, 0);
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  border-bottom: 4px solid #f54e77;
+}
+.navbar a:hover, .dropdown:hover .dropdown-content .sub-hover-list:hover a:hover a{
+  font-weight: 500;
+  border-bottom: none;
+  
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width:900px;
+  width: 80%;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  line-height: 3%;
+  font-weight: 300;
+  
+}
+
+.dropdown:hover .dropdown-content {
+    display: flex;
+    justify-content: space-evenly;
+}
+.sub-hover-list{
+    display: flex;
+    flex-direction: column;
+}
+
+.search_bar{
+    float: right;
+}
+
+@media screen and (min-width:300px) and (max-width:790px){
+  .mobile{
+    display: block;
+  }
+  .desktop{
+    display: none;
+  }
+}
+
+@media screen and (min-width:791px){
+  .mobile{
+    display: none;
+  }
+  .desktop{
+    display: block;
+  }
+}
+
+.profile{
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width:150px;
+  /* box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); */
+  z-index: 1;
+  display: none;
+  flex-direction: column;
+  margin-left: -3%;
+  
+}
+.profile a{
+  line-height: 2%;
+}
+.profile h4{
+  font-weight: 400;
+  font-size: small;
+}
+.wishlist{
+  margin-right: 2%;
+}
+a.login-link{
+  border:1ps solid #f54e77;
+  height: 35px;
+  width: 50%;
+  background-color: #f54e77;
+  font-weight: 600;
+}

@@ -1,0 +1,3 @@
+2. nav bar 1200 px more -< nav , alone ! search action bar removed
+3. portrait menu and search 2 alone at right and left corners!
+1. main page responsive

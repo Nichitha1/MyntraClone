@@ -1,0 +1,43 @@
+header{
+    position: fixed;
+    width: 100%;
+    background-color: #ffffff;
+}
+.wrapup{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-self: center;
+}
+.u-nav{
+    display: flex;
+    justify-content: start;
+    margin-left: 4%;
+}
+.u-nav li sup{
+    color: #ff3f6c;
+    font-size: 10px;
+}
+.hover-container{
+    background-color: transparent;
+    width: 1000px;
+    height: 550px;
+    margin-top: 1%;
+    margin-left: 16%;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: nowrap;
+    border: 2px dashed red;
+}
+.hover-container .hover-div a b{
+    color: #e191a4;
+}
+.hover-container .hover-div a{
+    text-decoration: none;
+    color: #ffffff;
+
+}
+.hover-container .hover-div{
+    display: flex;
+    flex-direction: column;
+}
