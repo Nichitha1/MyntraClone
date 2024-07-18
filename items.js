@@ -16,7 +16,7 @@ const items = [
     },
     {
         id: '002',
-        image: 'her/Puma/puma1.2.webp',
+        image: 'her/puma/puma1.2.webp',
         company: 'CUKOO',
         item_name: 'Women Padded Halter Neck Swimming Dress',
         original_price: 2599,
@@ -31,7 +31,7 @@ const items = [
     },
     {
         id: '003',
-        image: 'her/Puma/puma1.3.webp',
+        image: 'her/puma/puma1.3.webp',
         company: 'NUEVOSDAMAS',
         item_name: 'Women Red & White Printed A-Line Knee-Length Skirts',
         original_price: 1599,
@@ -46,7 +46,7 @@ const items = [
     },
     {
         id: '004',
-        image: 'her/Puma/puma1.10.webp',
+        image: 'her/puma/puma1.10.webp',
         company: 'ADIDAS',
         item_name: 'Indian Cricket ODI Jersey',
         original_price: 999,
@@ -61,7 +61,7 @@ const items = [
     },
     {
         id: '005',
-        image: 'her/Puma/puma1.11.webp',
+        image: 'her/puma/puma1.11.webp',
         company: 'Roadster',
         item_name: 'Pure Cotton T-shirt',
         original_price: 1399,
@@ -76,7 +76,7 @@ const items = [
     },
     {
         id: '006',
-        image: 'her/Puma/puma1.7.webp',
+        image: 'her/puma/puma1.7.webp',
         company: 'Nike',
         item_name: 'Men ReactX Running Shoes',
         original_price: 14995,
@@ -91,7 +91,7 @@ const items = [
     },
     {
         id: '007',
-        image: 'her/Puma/puma1.9.webp',
+        image: 'her/puma/puma1.9.webp',
         company: 'The Indian Garage Co',
         item_name: 'Men Slim Fit Regular Shorts',
         original_price: 1599,
@@ -104,7 +104,7 @@ const items = [
     },
     {
         id: '008',
-        image: 'her/Puma/puma1.8.webp',
+        image: 'her/puma/puma1.8.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -119,7 +119,7 @@ const items = [
     },
     {
         id: '009',
-        image: 'her/Puma/puma1.9.webp',
+        image: 'her/puma/puma1.9.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -134,7 +134,7 @@ const items = [
     },
     {
         id: '0010',
-        image: 'her/Puma/puma1.10.webp',
+        image: 'her/puma/puma1.10.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -149,7 +149,7 @@ const items = [
     },
     {
         id: '011',
-        image: 'her/Puma/puma1.11.webp',
+        image: 'her/puma/puma1.11.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -164,7 +164,7 @@ const items = [
     },
     {
         id: '012',
-        image: 'her/Puma/puma1.12.webp',
+        image: 'her/puma/puma1.12.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -179,7 +179,7 @@ const items = [
     },
     {
         id: '013',
-        image: 'her/Puma/puma1.13.webp',
+        image: 'her/puma/puma1.13.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -194,7 +194,7 @@ const items = [
     },
     {
         id: '014',
-        image: 'her/Puma/puma1.14.webp',
+        image: 'her/puma/puma1.14.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -209,7 +209,7 @@ const items = [
     },
     {
         id: '015',
-        image: 'her/Puma/puma1.15.webp',
+        image: 'her/puma/puma1.15.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -224,7 +224,7 @@ const items = [
     },
     {
         id: '016',
-        image: 'her/Puma/puma1.16.webp',
+        image: 'her/puma/puma1.16.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -239,7 +239,7 @@ const items = [
     },
     {
         id: '017',
-        image: 'her/Puma/puma1.17.webp',
+        image: 'her/puma/puma1.17.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -254,7 +254,7 @@ const items = [
     },
     {
         id: '018',
-        image: 'her/Puma/puma1.18.webp',
+        image: 'her/puma/puma1.18.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -269,7 +269,7 @@ const items = [
     },
     {
         id: '019',
-        image: 'her/Puma/puma1.19.webp',
+        image: 'her/puma/puma1.19.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -284,7 +284,7 @@ const items = [
     },
     {
         id: '020',
-        image: 'her/Puma/puma1.20.webp',
+        image: 'her/puma/puma1.20.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -299,7 +299,7 @@ const items = [
     },
     {
         id: '021',
-        image: 'her/Puma/puma1.21.webp',
+        image: 'her/puma/puma1.21.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -314,7 +314,7 @@ const items = [
     },
     {
         id: '022',
-        image: 'her/Puma/puma1.22.webp',
+        image: 'her/puma/puma1.22.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -329,7 +329,7 @@ const items = [
     },
     {
         id: '023',
-        image: 'her/Puma/puma1.23.webp',
+        image: 'her/puma/puma1.23.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -344,7 +344,7 @@ const items = [
     },
     {
         id: '024',
-        image: 'her/Puma/puma1.24.webp',
+        image: 'her/puma/puma1.24.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -359,7 +359,7 @@ const items = [
     },
     {
         id: '025',
-        image: 'her/Puma/puma1.25.webp',
+        image: 'her/puma/puma1.25.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -374,7 +374,7 @@ const items = [
     },
     {
         id: '026',
-        image: 'her/Puma/puma1.26.webp',
+        image: 'her/puma/puma1.26.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -389,7 +389,7 @@ const items = [
     },
     {
         id: '027',
-        image: 'her/Puma/puma1.27.webp',
+        image: 'her/puma/puma1.27.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -404,7 +404,7 @@ const items = [
     },
     {
         id: '028',
-        image: 'her/Puma/puma1.28.webp',
+        image: 'her/puma/puma1.28.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -419,7 +419,7 @@ const items = [
     },
     {
         id: '029',
-        image: 'her/Puma/puma1.29.webp',
+        image: 'her/puma/puma1.29.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -434,7 +434,7 @@ const items = [
     },
     {
         id: '030',
-        image: 'her/Puma/puma1.30.webp',
+        image: 'her/puma/puma1.30.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -449,7 +449,7 @@ const items = [
     },
     {
         id: '031',
-        image: 'her/Puma/puma1.31.webp',
+        image: 'her/puma/puma1.31.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -464,7 +464,7 @@ const items = [
     },
     {
         id: '032',
-        image: 'her/Puma/puma1.32.webp',
+        image: 'her/puma/puma1.32.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -479,7 +479,7 @@ const items = [
     },
     {
         id: '033',
-        image: 'her/Puma/puma1.33.webp',
+        image: 'her/puma/puma1.33.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -494,7 +494,7 @@ const items = [
     },
     {
         id: '034',
-        image: 'her/Puma/puma1.34.webp',
+        image: 'her/puma/puma1.34.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -509,7 +509,7 @@ const items = [
     },
     {
         id: '035',
-        image: 'her/Puma/puma1.35.webp',
+        image: 'her/puma/puma1.35.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -524,7 +524,7 @@ const items = [
     },
     {
         id: '036',
-        image: 'her/Puma/puma1.36.webp',
+        image: 'her/puma/puma1.36.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
@@ -539,7 +539,7 @@ const items = [
     },
     {
         id: '037',
-        image: 'her/Puma/puma1.37.webp',
+        image: 'her/puma/puma1.37.webp',
         company: 'Nivea',
         item_name: 'Men Fresh Deodrant 150ml',
         original_price: 285,
