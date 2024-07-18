@@ -1,7 +1,7 @@
 const items = [
     {
         id: '001',
-        image: 'her/Puma/puma1.1.webp',
+        image: 'her/puma/IMG-20240518-WA0040.jpg',
         company: 'Carlton London',
         item_name: 'Rhodium-Plated CZ Floral Studs',
         original_price: 1045,
